@@ -1,0 +1,4 @@
+log_dir: folder\
+base_model: microsoft/resnet-18 # Placeholder
+dataset_path: cornell-movie-review-data/rotten_tomatoes # Placeholder
+output_path: folder
